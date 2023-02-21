@@ -1,0 +1,1 @@
+[{"buildOrder":2,"reportUrl":"http://localhost:8080/job/DSAlgo/2/allure","reportName":"AllureReport","data":{"failed":3,"broken":0,"skipped":0,"passed":143,"unknown":0,"total":146}},{"buildOrder":1,"reportUrl":"http://localhost:8080/job/DSAlgo/1/allure","reportName":"AllureReport","data":{"failed":3,"broken":0,"skipped":0,"passed":143,"unknown":0,"total":146}}]
